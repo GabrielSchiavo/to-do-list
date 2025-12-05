@@ -1,11 +1,19 @@
+<div align="center">
+
 # To-Do List
 
-<p align="left">
+</div>
+
+<p align="center">
     <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge"/>
     <img src="https://img.shields.io/github/license/GabrielSchiavo/to-do-list?color=blue&style=for-the-badge"/>
 </p>
 
+<div align="center">
+
 App de lista desenvolvido com React Native para fins de estudo.
+
+</div>
 
 ## :hammer: Funcionalidades do projeto
 - `Cadastro de tarefa:` cadastro de tarefas a serem feitas.

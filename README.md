@@ -34,17 +34,17 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para o projet
 
 Agora, você deve executar em um terminal o seguinte comando para instalar o Expo:
 ```bash
-npm install --global expo-cli
+pnpm install expo-cli
 ```
 
 Após executar esse comando abra outro terminal na pasta do projeto e execute este comando para instalar as dependências do projeto:
 ```bash
-npm install
+pnpm install
 ```
 
 Agora basta iniciar o projeto com o seguinte comando:
 ```bash
-npx expo start
+pnpm dlx expo start
 ```
 
 ## :white_check_mark: Tecnologias utilizadas

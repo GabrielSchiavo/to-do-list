@@ -19,7 +19,7 @@
     "shell-quote": "1.8.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.0"
+    "@babel/core": "^7.29.6"
   },
   "private": true
 }
